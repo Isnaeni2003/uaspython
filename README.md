@@ -1,6 +1,10 @@
-# Project UAS Membuat Daftar Nilai Mahasiswa
+# Project UAS Program Tabel Daftar Nilai Mahasiswa
 ## Nama : Khaerunnisa Isnaeni Lestari
 ## Kelas : TI 22 C1
+
+Berikut Link Youtube :
+
+Berikut Tutorial pdf :
 
 # Struktur Package dan Modul
 ![package@](https://user-images.githubusercontent.com/115929351/212522309-b1702268-f9f4-4708-bf74-f23ce44e1aca.png)
@@ -44,7 +48,11 @@ Pada package model ini terdapat 2 file, pertama file init.py hanya untuk mengini
 
 ## View
 
-Package kedua ada view terdapat 2 file, yang berisi init.py untuk menginisiasi package dan file input_nilai.py yang berisi import an dari nama projectnya yaitu UASPython, lalu package model dan file daftar_nilai.py, dari package ini saya buat variable (dn). Disini saya membuat def addnew untuk nantinya dipanggil pada tampilan menu, dan inputan ini berisi data mahasiswa yaitu
+Package kedua ada view terdapat 2 file, yang berisi init.py untuk menginisiasi package dan file input_nilai.py yang berisi import an dari nama projectnya yaitu UASPython, lalu package model dan file daftar_nilai.py, dari package ini saya buat variable (dn). Disini saya membuat def addnew untuk nantinya dipanggil pada tampilan menu, dan inputan ini berisi data mahasiswa yaitu:
+
+## Source Code
+![carbon(13)](https://user-images.githubusercontent.com/115929351/212523942-a4cb4329-375b-4034-889d-bae83e1403f6.png)
+
 >> nama   = Masukkan Nama
 >> nim    = (int) Masukkan NIM
 >> tugas  = (int) Masukkan Nilai Tugas
@@ -57,3 +65,36 @@ Kemudian terakhir variable dn.tambah, variable (dn) dan fungsi tambah untuk mena
 Baik, pada file ini merupakan file diluar package-package ini (model dan view) yang berisi simpanan data inputan data mahasiswa kita yang tadi. File ini tidak diisi apa-sps oleh user karna difungsikan sebagai database untuk menyimpan hasil inputan saja.
 
 ## File main.py
+
+FIle main.py, yaitu beriis import an dari package model dengan file daftar_nilai.py dengan variable (dn), dan import an dari package view dengan file input_nilai.py variablenya (nn). Dan ini merupakan tampilan menu nya :
+
+## Source Code
+![carbon(14)](https://user-images.githubusercontent.com/115929351/212524112-f399cf64-2c71-44f6-9744-8ee53c04a42b.png)
+
+## MyEnv
+
+Dan satu lagi, ada myenv ini bukan merupakan package tetapi hanya untuk membuat lingkungan virtual dari python, agar tidak mengganggu project lainnya, dan cara menjalankannya yaitu, source myenv/bin/activate.
+
+## Output Program Tabel Daftar Nilai Mahasiswa
+
+1. Tampilan Menu Pilihan Mahasiswa
+![tmpiln](https://user-images.githubusercontent.com/115929351/212524257-a12b179c-a1e5-46fc-831e-6e1c823fea12.png)
+
+2. Tampilan Tambah Data Mahasiswa
+![tambah@](https://user-images.githubusercontent.com/115929351/212524272-2a0bf423-1b0d-410a-9be4-1f0720189403.png)
+
+3. Tampilan Ubah Data Mahasiswa
+![ubah@](https://user-images.githubusercontent.com/115929351/212524288-b00e403a-99e5-46ca-9cde-cb6418821f13.png)
+
+4. Tampilan Cari Data Mahasiswa
+![cari@](https://user-images.githubusercontent.com/115929351/212524313-c6c337a3-b4ff-4e92-902c-579228436263.png)
+
+5. Tampilan Hapus Data Mahasiswa
+![hapus@](https://user-images.githubusercontent.com/115929351/212524327-295df118-bd2e-4b97-856f-b9b356054b2b.png)
+
+6. Tampilan Keluar Program Daftar Tabel Mahasiswa
+![keluar@](https://user-images.githubusercontent.com/115929351/212524336-aa671b70-009f-4a00-9a9d-1beee4e66f23.png)
+
+Semoga bermanfaat man teman semuaaa....
+
+## Thanks for Read Everyone
