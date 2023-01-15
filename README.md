@@ -66,7 +66,7 @@ Baik, pada file ini merupakan file diluar package-package ini (model dan view) y
 
 ## File main.py
 
-FIle main.py, yaitu beriis import an dari package model dengan file daftar_nilai.py dengan variable (dn), dan import an dari package view dengan file input_nilai.py variablenya (nn). Dan ini merupakan tampilan menu nya :
+File main.py, yaitu berisi import an dari package model dengan file daftar_nilai.py dengan variable (dn), dan import an dari package view dengan file input_nilai.py variablenya (nn). Dan ini merupakan tampilan menu nya :
 
 ## Source Code
 ![carbon(14)](https://user-images.githubusercontent.com/115929351/212524112-f399cf64-2c71-44f6-9744-8ee53c04a42b.png)
