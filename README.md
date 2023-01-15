@@ -84,16 +84,16 @@ Dan satu lagi, ada myenv ini bukan merupakan package tetapi hanya untuk membuat 
 ![tambah@](https://user-images.githubusercontent.com/115929351/212524272-2a0bf423-1b0d-410a-9be4-1f0720189403.png)
 
 3. Tampilan Ubah Data Mahasiswa
-![ubah@](https://user-images.githubusercontent.com/115929351/212524288-b00e403a-99e5-46ca-9cde-cb6418821f13.png)
+![image](https://user-images.githubusercontent.com/115929351/212524428-8df18fa6-e9ea-4dd2-a030-71dd5f0c0c70.png)
 
 4. Tampilan Cari Data Mahasiswa
 ![cari@](https://user-images.githubusercontent.com/115929351/212524313-c6c337a3-b4ff-4e92-902c-579228436263.png)
 
 5. Tampilan Hapus Data Mahasiswa
-![hapus@](https://user-images.githubusercontent.com/115929351/212524327-295df118-bd2e-4b97-856f-b9b356054b2b.png)
+![image](https://user-images.githubusercontent.com/115929351/212524415-ccbfc34b-6f87-4f8e-bca2-2a4fb954cdb6.png)
 
 6. Tampilan Keluar Program Daftar Tabel Mahasiswa
-![keluar@](https://user-images.githubusercontent.com/115929351/212524336-aa671b70-009f-4a00-9a9d-1beee4e66f23.png)
+![image](https://user-images.githubusercontent.com/115929351/212524400-63f3e2ed-4e19-4e13-9fb8-cf9021b40aa2.png)
 
 Semoga bermanfaat man teman semuaaa....
 
