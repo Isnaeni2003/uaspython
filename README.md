@@ -4,7 +4,8 @@
 
 Berikut Link Youtube :
 
-Berikut Tutorial pdf :
+Berikut Tutorial pdf : [Project UAS Basprog Isna.pdf](https://github.com/Isnaeni2003/uaspython/files/10419660/Project.UAS.Basprog.Isna.pdf)
+
 
 # Struktur Package dan Modul
 ![package@](https://user-images.githubusercontent.com/115929351/212522309-b1702268-f9f4-4708-bf74-f23ce44e1aca.png)
