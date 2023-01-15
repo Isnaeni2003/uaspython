@@ -12,7 +12,7 @@ Berikut Tutorial pdf : [Project UAS Basprog Isna.pdf](https://github.com/Isnaeni
 
 ## Penjelasan
 
-## Model
+# Model
 
 Pada package model ini terdapat 2 file, pertama file init.py hanya untuk menginisiasi package dan file yang kedua ada daftar_nilai.py yang terdiri dari source code untuk menambah data mahasiswa, mengubah data mahasiswa, menghapus data mahasiswa, dan mencari data mahasiswa. Package daftar_nilai.py disini saya memakai from TinyDB untuk menjalankan file db.json yang fungsinya untuk menyimpan data inputan, lalu disini saya memakai fungsi def manggil() untuk menampilkan tabel mahasiswanya.
  
@@ -47,7 +47,7 @@ Pada package model ini terdapat 2 file, pertama file init.py hanya untuk mengini
 3. Kemudian data.update kemudian membuat dict dari semua item (nama, nim, tugas, uts, dan uas) serta User.nama ariable user untuk menjalankan Query fungsi mengubah data/update
 4. Dan memanggil kembali fungsi def untuk menampilkan tabel mahasiswa
 
-## View
+# View
 
 Package kedua ada view terdapat 2 file, yang berisi init.py untuk menginisiasi package dan file input_nilai.py yang berisi import an dari nama projectnya yaitu UASPython, lalu package model dan file daftar_nilai.py, dari package ini saya buat variable (dn). Disini saya membuat def addnew untuk nantinya dipanggil pada tampilan menu, dan inputan ini berisi data mahasiswa yaitu:
 
@@ -61,22 +61,22 @@ Package kedua ada view terdapat 2 file, yang berisi init.py untuk menginisiasi p
 >> uas    = (int) Masukkan Nilai UAS
 Kemudian terakhir variable dn.tambah, variable (dn) dan fungsi tambah untuk menambahkan semua argumen
 
-## File db.json
+# File db.json
 
 Baik, pada file ini merupakan file diluar package-package ini (model dan view) yang berisi simpanan data inputan data mahasiswa kita yang tadi. File ini tidak diisi apa-sps oleh user karna difungsikan sebagai database untuk menyimpan hasil inputan saja.
 
-## File main.py
+# File main.py
 
 File main.py, yaitu berisi import an dari package model dengan file daftar_nilai.py dengan variable (dn), dan import an dari package view dengan file input_nilai.py variablenya (nn). Dan ini merupakan tampilan menu nya :
 
 ## Source Code
 ![carbon(14)](https://user-images.githubusercontent.com/115929351/212524112-f399cf64-2c71-44f6-9744-8ee53c04a42b.png)
 
-## MyEnv
+# MyEnv
 
 Dan satu lagi, ada myenv ini bukan merupakan package tetapi hanya untuk membuat lingkungan virtual dari python, agar tidak mengganggu project lainnya, dan cara menjalankannya yaitu, source myenv/bin/activate.
 
-## Output Program Tabel Daftar Nilai Mahasiswa
+# Output Program Tabel Daftar Nilai Mahasiswa
 
 1. Tampilan Menu Pilihan Mahasiswa
 ![tmpiln](https://user-images.githubusercontent.com/115929351/212524257-a12b179c-a1e5-46fc-831e-6e1c823fea12.png)
@@ -98,4 +98,4 @@ Dan satu lagi, ada myenv ini bukan merupakan package tetapi hanya untuk membuat 
 
 Semoga bermanfaat man teman semuaaa....
 
-## Thanks for Read Everyone
+# Thanks for Read Everyone
