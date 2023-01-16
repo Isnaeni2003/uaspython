@@ -1,5 +1,6 @@
 # Project UAS Program Tabel Daftar Nilai Mahasiswa
-## Nama : Khaerunnisa Isnaeni Lestari
+## Nama  : Khaerunnisa Isnaeni Lestari
+## NIM   : 312210008
 ## Kelas : TI 22 C1
 
 Berikut Link Youtube : https://youtu.be/stK3uABhFPk
