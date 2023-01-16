@@ -2,7 +2,7 @@
 ## Nama : Khaerunnisa Isnaeni Lestari
 ## Kelas : TI 22 C1
 
-Berikut Link Youtube :
+Berikut Link Youtube : https://youtu.be/stK3uABhFPk
 
 Berikut Tutorial pdf : [Project UAS Basprog Isna.pdf](https://github.com/Isnaeni2003/uaspython/files/10419660/Project.UAS.Basprog.Isna.pdf)
 
